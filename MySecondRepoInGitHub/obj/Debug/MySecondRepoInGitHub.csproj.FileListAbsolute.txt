@@ -1,0 +1,6 @@
+C:\GitRepo\DotNetProjects\MySecondRepoInGitHub\MySecondRepoInGitHub\bin\MySecondRepoInGitHub.dll.config
+C:\GitRepo\DotNetProjects\MySecondRepoInGitHub\MySecondRepoInGitHub\bin\MySecondRepoInGitHub.dll
+C:\GitRepo\DotNetProjects\MySecondRepoInGitHub\MySecondRepoInGitHub\bin\MySecondRepoInGitHub.pdb
+C:\GitRepo\DotNetProjects\MySecondRepoInGitHub\MySecondRepoInGitHub\obj\Debug\MySecondRepoInGitHub.csprojResolveAssemblyReference.cache
+C:\GitRepo\DotNetProjects\MySecondRepoInGitHub\MySecondRepoInGitHub\obj\Debug\MySecondRepoInGitHub.dll
+C:\GitRepo\DotNetProjects\MySecondRepoInGitHub\MySecondRepoInGitHub\obj\Debug\MySecondRepoInGitHub.pdb
